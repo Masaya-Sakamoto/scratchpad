@@ -1,4 +1,16 @@
+---
+aliases: [Agents-A1ローカル展開]
+tags:
+  - 上海AI実験室
+  - エージェント
+  - Agents-A1
+  - LLM
+---
 # 4.1 Agents-A1ローカル展開
+
+>[!info] 関連ドキュメント
+> ⬆️ 親カテゴリ: [[4_agent_overview|エージェント基盤]]^
+> 🔗 関連技術: [[2_research_harness|ResearchHarness]]
 
 ## 1. Agents-A1概要
 
@@ -204,3 +216,4 @@ ps aux | grep vllm
 ### フェーズ4: 学習対応（4週間）
 - Post-training準備
 - 大規模GPUクラスター
+

@@ -1,3 +1,48 @@
+---
+aliases: [メイン設計ドキュメント]
+tags:
+  - 上海AI実験室
+  - オンプレミス
+  - 科学Agent
+  - 設計
+  - research
+---
+# 上海AI実験室オンプレミス再構成設計
+
+>[!info]
+> ⬆️ 親ダッシュボード: [[0_index_dashboard|プロジェクトダッシュボード]]
+
+> Shanghai AI Labの実験環境をオンプレミスで再構成するための設計ドキュメント
+
+## 📋 目次
+- [[0_summary|0.要約]]
+- [[10_investigation_plan|10.調査計画]]
+- [[#調査結果フォルダ|📁 調査結果フォルダ]]
+
+## 🔗 関連ドキュメント
+### インフラストラクチャ
+- [[1_kubernetes_design|Kubernetes設計]] → [[1_infrastructure_overview|基盤インフラ]]
+- [[1_cni_csi_selection|CNI/CSI選定]] → [[2_platform_overview|プラットフォーム]]
+
+### プラットフォーム
+- [[1_scp_self_hosted|SCP自己ホスト]] → [[3_data_overview|データレイク]], [[4_agent_overview|エージェント基盤]]
+
+### データ
+- [[2_data_lake_design|データレイク設計]] → [[3_data_overview|データレイク]]
+
+### エージェント
+- [[1_agents_a1_deployment|Agents-A1展開]] → [[4_agent_overview|エージェント基盤]]
+- [[2_research_harness|ResearchHarness]] → [[4_agent_overview|エージェント基盤]]
+
+### 評価
+- [[1_research_clawbench|ResearchClawBench]] → [[5_evaluation_overview|評価環境]]
+- [[2_scithèque_environment_compiler|SciThèque環境コンパイラ]] → [[5_evaluation_overview|評価環境]]
+
+### セキュリティ
+- [[1_security_audit_system|セキュリティ監査システム]] → [[6_security_overview|セキュリティ]]
+
+---
+
 > 上海人工智能実験室 の実験環境を今一度、網羅的に調査してください。
 オンプレミスで実現可能か、可能ならばどのようなデータセットとそれを捌く環境が想定されるか調査ベースでお願いします。
 

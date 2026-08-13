@@ -1,4 +1,17 @@
+---
+aliases: [SCP自己ホスト]
+tags:
+  - 上海AI実験室
+  - SCP
+  - データ
+  - エージェント
+---
 # 3.1 SCP（Scientific Computing Platform）自己ホスト
+
+>[!info] 関連ドキュメント
+> ⬆️ 親カテゴリ: [[3_data_overview|データレイク]]^
+> 🔗 関連技術: [[2_data_lake_design|データレイク設計]]
+> 🔗 関連技術: [[1_agents_a1_deployment|Agents-A1展開]]
 
 ## 1. SCPアーキテクチャ
 
@@ -216,3 +229,4 @@ rules:
 - 2,200+ツール
 - 200+ Skill
 - Wet Lab統合
+

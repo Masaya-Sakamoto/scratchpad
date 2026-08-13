@@ -1,4 +1,16 @@
+---
+aliases: [SciThèque環境コンパイラ]
+tags:
+  - 上海AI実験室
+  - 評価
+  - SciThèque
+  - 環境コンパイラ
+---
 # 5.2 SciThèque型実験環境コンパイラ
+
+>[!info] 関連ドキュメント
+> ⬆️ 親カテゴリ: [[5_evaluation_overview|評価環境]]^
+> 🔗 関連技術: [[1_research_clawbench|ResearchClawBench]]
 
 ## 1. SciThèque概要
 
@@ -201,3 +213,4 @@ export SCITHEQUE_DEBUG=1
 # DAG可視化
 ./visualize_dag --env-id 123 --output dag.png
 ```
+

@@ -1,4 +1,16 @@
+---
+aliases: [ResearchHarness]
+tags:
+  - 上海AI実験室
+  - エージェント
+  - ResearchHarness
+  - ランタイム
+---
 # 4.2 ResearchHarness - 軽量Agentランタイム
+
+>[!info] 関連ドキュメント
+> ⬆️ 親カテゴリ: [[4_agent_overview|エージェント基盤]]^
+> 🔗 関連技術: [[1_agents_a1_deployment|Agents-A1展開]]
 
 ## 1. ResearchHarness概要
 
@@ -207,3 +219,4 @@ security:
 1. 本番データ使用
 2. 大規模評価
 3. 学習データ収集
+

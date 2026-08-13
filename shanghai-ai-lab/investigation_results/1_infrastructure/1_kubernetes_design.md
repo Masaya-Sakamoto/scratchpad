@@ -1,4 +1,16 @@
+---
+aliases: [Kubernetesクラスタ設計]
+tags:
+  - 上海AI実験室
+  - インフラ
+  - Kubernetes
+  - 設計
+---
 # 1.1 Kubernetesクラスタ設計
+
+>[!info] 関連ドキュメント
+> ⬆️ 親カテゴリ: [[1_infrastructure_overview|基盤インフラ]]^
+> 🔗 関連技術: [[1_cni_csi_selection|CNI/CSI選定]]
 
 ## 1.1.1 ノード構成
 
@@ -175,3 +187,4 @@
 4. **GPUサポート確立**（1-2週間）
    - GPU Operator
    - 推論/学習環境
+

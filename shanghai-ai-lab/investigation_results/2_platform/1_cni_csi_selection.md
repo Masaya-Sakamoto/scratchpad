@@ -1,4 +1,16 @@
+---
+aliases: [CNI/CSI選定]
+tags:
+  - 上海AI実験室
+  - プラットフォーム
+  - CNI
+  - CSI
+---
 # 2.1 CNI/CSI選定
+
+>[!info] 関連ドキュメント
+> ⬆️ 親カテゴリ: [[2_platform_overview|プラットフォーム]]^
+> 🔗 関連技術: [[1_kubernetes_design|Kubernetesクラスタ設計]]
 
 ## 1. ネットワーク（CNI）選定
 
@@ -179,3 +191,4 @@
    - RBAC設定
    - ネットワークポリシー適用
    - 監査ログ設定
+

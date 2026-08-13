@@ -1,4 +1,16 @@
+---
+aliases: [ResearchClawBench]
+tags:
+  - 上海AI実験室
+  - 評価
+  - ResearchClawBench
+  - benchmark
+---
 # 5.1 ResearchClawBench - 評価ベンチマーク
+
+>[!info] 関連ドキュメント
+> ⬆️ 親カテゴリ: [[5_evaluation_overview|評価環境]]^
+> 🔗 関連技術: [[2_scithèque_environment_compiler|SciThèque環境コンパイラ]]
 
 ## 1. ResearchClawBench概要
 
@@ -179,3 +191,4 @@ export RCB_DEBUG=1
 1. 新タスク追加
 2. 性能モニタリング
 3. 戦略調整
+
